@@ -1,5 +1,6 @@
 # Previsão de Preços de Imóveis em Guaratinguetá 🏠
 
+(Projeto em progresso)
 Este projeto aplica técnicas de **ciência de dados e machine learning** para prever preços de imóveis na cidade de Guaratinguetá, SP.  
 Ele inclui coleta de dados reais de portais imobiliários, limpeza, engenharia de atributos, modelagem e visualização interativa.
 

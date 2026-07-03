@@ -23,7 +23,7 @@ Ele inclui coleta de dados reais de portais imobiliários, limpeza, engenharia d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/projeto-previsao-imoveis-guaratingueta.git
+   git clone https://github.com/luiza-ctrl/projeto-previsao-imoveis-guaratingueta.git
    cd projeto-previsao-imoveis-guaratingueta
 
 2. Execute o arquivo run_streamlit.bat
